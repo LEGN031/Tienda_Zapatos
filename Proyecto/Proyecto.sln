@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1. Presentaciones", "1. Presentaciones", "{02EA681E-C7D8-13C7-8484-4AC65E1B71E8}"
 EndProject
@@ -16,6 +16,15 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_aplicaciones", "lib_aplicaciones\lib_aplicaciones.csproj", "{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lib_dominio", "lib_dominio\lib_dominio.csproj", "{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp_servicios", "asp_servicios\asp_servicios.csproj", "{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Elementos de la solución", "Elementos de la solución", "{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}"
+	ProjectSection(SolutionItems) = preProject
+		secrets.json = secrets.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ut_presentacion", "ut_presentacion\ut_presentacion.csproj", "{A1750074-34A7-4C90-825E-0D14E8460157}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -35,6 +44,14 @@ Global
 		{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1750074-34A7-4C90-825E-0D14E8460157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1750074-34A7-4C90-825E-0D14E8460157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1750074-34A7-4C90-825E-0D14E8460157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1750074-34A7-4C90-825E-0D14E8460157}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -43,6 +60,8 @@ Global
 		{7493D74B-163F-41C4-8628-A7BB6B975EE9} = {0638D646-1B89-4877-8ACB-C1778E69FBFC}
 		{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891} = {0638D646-1B89-4877-8ACB-C1778E69FBFC}
 		{ECE68BF5-D834-4ECF-8C73-7A3616F6458D} = {4D24290E-2E3F-44DB-BB6C-2F4CD07D4DE7}
+		{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A} = {0638D646-1B89-4877-8ACB-C1778E69FBFC}
+		{A1750074-34A7-4C90-825E-0D14E8460157} = {86F93AAB-6CC3-473F-9211-CE7B2A491BEA}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {6E823521-710C-4766-83DB-8C747EB23961}
