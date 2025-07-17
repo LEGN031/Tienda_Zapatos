@@ -14,6 +14,6 @@ namespace lib_dominio.Entidades
         public string? Contrasena { get; set; }
 
         public int Cliente { get; set; }
-        [ForeignKey("Cliente")] public Clientes? _Cliente { get; set; }
+        [ForeignKey("Cliente")] public Clientes? Cliente_ { get; set; }
     }
 }

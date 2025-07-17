@@ -9,10 +9,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Repositorio\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\lib_dominio\lib_dominio.csproj" />
     <ProjectReference Include="..\lib_repositorios\lib_repositorios.csproj" />
   </ItemGroup>

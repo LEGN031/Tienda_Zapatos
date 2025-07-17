@@ -1,10 +1,11 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Interfaces;
+using lib_aplicaciones.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace lib_aplicaciones.Implementaciones
 {
-    public class CuentaClientesAplicacion
+    public class CuentaClientesAplicacion : ICuentaClientesAplicacion
     {
         private IConexion? IConexion = null;
 
@@ -62,7 +63,7 @@ namespace lib_aplicaciones.Implementaciones
             return this.IConexion!.CuentaClientes!.Take(20).ToList();
         }
 
-        public List<CuentaClientes> porCorreo(CuentaClientes? entidad)
+        public List<CuentaClientes> PorCorreo(CuentaClientes? entidad)
         {
 
             if (entidad == null || string.IsNullOrWhiteSpace(entidad.Correo))

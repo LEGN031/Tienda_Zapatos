@@ -37,6 +37,7 @@ namespace ut_presentacion.Nucleo
             entidad.Talla = "Talla p";
             entidad.Marca = "Marca p";
             entidad.Codigo = "VJ00P";
+            entidad.Descripcion = "Descripcion prueba";
 
             return entidad;
         }
@@ -60,6 +61,8 @@ namespace ut_presentacion.Nucleo
             entidad.Zapato = 1;
             entidad.Compra = 1;
             entidad.Codigo = "DC00P";
+            entidad.Cantidad = 3;
+            entidad.Subtotal = 360.0m; // Asignar un subtotal de ejemplo
 
             return entidad;
         }
@@ -79,25 +82,27 @@ namespace ut_presentacion.Nucleo
             var entidad = new CuentaClientes();
             entidad.Correo = "sdas@prueba1";
             entidad.Contrasena = "contraseña";
+            entidad.Cliente = 1; // Asignar un ID de cliente existente
 
             return entidad;
         }
 
-        public static CuentaEmpleados? cuentaEmpleados()
+        public static CuentaEmpleados? CuentaEmpleados()
         {
             var entidad = new CuentaEmpleados();
             entidad.Correo = "sdas@prueba2";
             entidad.Contrasena = "contraseña";
+            entidad.Empleado = 1; // Asignar un ID de empleado existente
             return entidad;
         }
 
-        public static Auditorias? Auditorias()
+        /*public static Auditorias? Auditorias()
         {
             var entidad = new Auditorias();
             entidad.Accion = "Prueba";
             entidad.Tabla = "Tabla prueba";
             entidad.Fecha = DateTime.Now;
             return entidad;
-        }
+        }*/
     }
 }

@@ -1,10 +1,11 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Interfaces;
+using lib_aplicaciones.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace lib_aplicaciones.Implementaciones
 {
-    public class EmpleadosAplicacion
+    public class EmpleadosAplicacion : IEmpleadosAplicacion
     {
         private IConexion? IConexion = null;
 
@@ -62,7 +63,7 @@ namespace lib_aplicaciones.Implementaciones
             return this.IConexion!.Empleados!.Take(20).ToList();
         }
 
-        public List<Empleados> porCedula(Empleados? entidad)
+        public List<Empleados> PorCedula(Empleados? entidad)
         {
 
             if (entidad == null || string.IsNullOrWhiteSpace(entidad.Cedula))

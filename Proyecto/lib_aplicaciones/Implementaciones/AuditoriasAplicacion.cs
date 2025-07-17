@@ -1,10 +1,11 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using lib_aplicaciones.Interfaces;
 
 namespace lib_aplicaciones.Implementaciones
 {
-    public class AuditoriasAplicacion
+    public class AuditoriasAplicacion : IAuditoriasAplicacion
     {
         private IConexion? IConexion = null;
 
@@ -54,7 +55,7 @@ namespace lib_aplicaciones.Implementaciones
             return this.IConexion!.Auditorias!.Take(20).ToList();
         }
 
-        public List<Auditorias> porTabla(Auditorias? entidad)
+        public List<Auditorias> PorTabla(Auditorias? entidad)
         {
 
             return this.IConexion!.Auditorias!.Where(x => x.Tabla!.Contains(entidad!.Tabla!)).ToList();

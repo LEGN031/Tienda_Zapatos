@@ -21,11 +21,11 @@ namespace lib_dominio.Entidades
         public int Cliente { get; set; }
         [ForeignKey("Cliente")] public Clientes? Cliente_ { get; set; }
 
-        public List<DetallesCompras>? DetallesCompras { get; set; }
+        public List<DetallesCompras>? DetallesCompra { get; set; }
 
         public void CalculoTotal()
         {
-            Total = DetallesCompras!.Sum(x => x.Subtotal);
+            Total = DetallesCompra!.Sum(x => x.Subtotal);
         }
     }
 }

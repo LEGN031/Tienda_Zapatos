@@ -1,10 +1,11 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using lib_aplicaciones.Interfaces;
 
 namespace lib_aplicaciones.Implementaciones
 {
-    public class ZapatosAplicacion
+    public class ZapatosAplicacion : IZapatosAplicacion
     {
         private IConexion? IConexion = null;
 
@@ -65,7 +66,7 @@ namespace lib_aplicaciones.Implementaciones
             return this.IConexion!.Zapatos!.Take(20).ToList();
         }
 
-        public List<Zapatos> porCodigo(Zapatos? entidad) {
+        public List<Zapatos> PorCodigo(Zapatos? entidad) {
 
             if (entidad == null || string.IsNullOrWhiteSpace(entidad.Codigo))
                 throw new Exception("lbFaltaInformacion");

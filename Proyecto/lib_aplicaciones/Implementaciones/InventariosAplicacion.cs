@@ -1,10 +1,11 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Interfaces;
+using lib_aplicaciones.Interfaces;
 using Microsoft.EntityFrameworkCore;
 
 namespace lib_aplicaciones.Implementaciones
 {
-    public class InventariosAplicacion
+    public class InventariosAplicacion : IInventariosAplicacion
     {
         private IConexion? IConexion = null;
 
@@ -68,7 +69,7 @@ namespace lib_aplicaciones.Implementaciones
             return this.IConexion!.Inventarios!.Take(20).ToList();
         }
 
-        public List<Inventarios> porCodigo(Inventarios? entidad)
+        public List<Inventarios> PorCodigo(Inventarios? entidad)
         {
 
             if (entidad == null || string.IsNullOrWhiteSpace(entidad.Codigo))

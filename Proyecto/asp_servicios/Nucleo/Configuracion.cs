@@ -8,7 +8,7 @@ namespace asp_servicios.Nucleo
 
         public static string? ObtenerValor(string? key)
         {
-            // return Servicio(key);
+            //return Servicio(key);
             return Local(key);
         }
 

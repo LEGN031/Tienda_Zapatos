@@ -15,14 +15,14 @@ namespace lib_dominio.Entidades
         public string? Codigo { get; set; }
 
         public int Zapato { get; set; }
-        [ForeignKey("Zapato")] public Zapatos? Zapato_ { get; set; }
+        [ForeignKey("Zapato")] public Zapatos? _Zapato { get; set; }
 
         public int Compra { get; set; }
-        [ForeignKey("Compra")] public Compras? Compra_ { get; set; }
+        [ForeignKey("Compra")] public Compras? _Compra { get; set; }
 
         public void CalculoSubtotal()
         {
-            Subtotal = Cantidad * Zapato_!.Precio;
+            Subtotal = Cantidad * _Zapato!.Precio;
         }
     }
 }

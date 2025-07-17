@@ -11,6 +11,6 @@ namespace lib_dominio.Entidades
         public string? Contrasena { get; set; }
 
         public int Empleado { get; set; }
-        [ForeignKey("Empleado")] public Empleados? _Empleado { get; set; }
+        [ForeignKey("Empleado")] public Empleados? Empleado_ { get; set; }
     }
 }

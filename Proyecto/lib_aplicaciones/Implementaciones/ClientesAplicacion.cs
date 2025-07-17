@@ -1,10 +1,11 @@
 ﻿using lib_dominio.Entidades;
 using lib_repositorios.Interfaces;
 using Microsoft.EntityFrameworkCore;
+using lib_aplicaciones.Interfaces;
 
 namespace lib_aplicaciones.Implementaciones
 {
-    public class ClientesAplicacion
+    public class ClientesAplicacion : IClientesAplicacion
     {
         private IConexion? IConexion = null;
 
@@ -62,7 +63,7 @@ namespace lib_aplicaciones.Implementaciones
             return this.IConexion!.Clientes!.Take(20).ToList();
         }
 
-        public List<Clientes> porCedula(Clientes? entidad)
+        public List<Clientes> PorCedula(Clientes? entidad)
         {
 
             if (entidad == null || string.IsNullOrWhiteSpace(entidad.Cedula))
