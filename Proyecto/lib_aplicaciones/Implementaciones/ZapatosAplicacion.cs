@@ -38,7 +38,7 @@ namespace lib_aplicaciones.Implementaciones
         public Zapatos? Guardar(Zapatos? entidad) { 
             if(entidad == null)
                 throw new Exception("lbFaltaInformacion");
-            if (entidad!.Id == 0)
+            if (entidad!.Id != 0)
                 throw new Exception("lbYaSeGuardo");
             this.IConexion!.Auditorias!.Add(
                 new Auditorias() { Accion = "Guardar", Tabla = "Zapatos", Fecha = DateTime.Now }

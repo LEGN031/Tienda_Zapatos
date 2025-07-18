@@ -86,8 +86,8 @@ CREATE TABLE Auditorias (
 
 -- Zapatos
 INSERT INTO Zapatos (Nombre, Codigo, Descripcion, precio, Talla, Marca) VALUES
-('Tenis Blancos', 'ZAP001', 'Tenis deportivos blancos', 199.99, '42', 'Nike'),
-('Botas Negras', 'ZAP002', 'Botas de cuero negras', 249.99, '40', 'Dr. Martens');
+('Tenis Blancos', 'ZAP-001', 'Tenis deportivos blancos', 199.99, '42', 'Nike'),
+('Botas Negras', 'ZAP-002', 'Botas de cuero negras', 249.99, '40', 'Dr. Martens');
 
 -- Clientes
 INSERT INTO Clientes (Nombre, Cedula, Direccion, Telefono) VALUES

@@ -3,24 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\controllers\\zapatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\zapatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_aplicaciones\\implementaciones\\zapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\zapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_aplicaciones\\interfaces\\izapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\izapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\controllers\\inventarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\inventarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_dominio\\entidades\\zapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\zapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\asp_servicios.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\asp_servicios.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\controllers\\zapatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\controllers\\zapatoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -29,6 +49,26 @@
     {
       "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\asp_servicios.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\asp_servicios.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_aplicaciones\\implementaciones\\auditoriasaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\inventariosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_aplicaciones\\implementaciones\\zapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\zapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_aplicaciones\\implementaciones\\clientesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\implementaciones\\clientesaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -73,18 +109,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\interfaces\\iconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\implementaciones\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8ACA9BB1-111A-4BD6-A766-90C9E831CB1A}|asp_servicios\\asp_servicios.csproj|solutionrelative:asp_servicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\entidadesnucleo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_dominio\\entidades\\cuentaclientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -107,10 +131,6 @@
       "RelativeMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
-      "RelativeMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\ut_presentacion\\repositorio\\empleadoprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\empleadoprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -119,16 +139,8 @@
       "RelativeMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\inventariosprueba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_dominio\\entidades\\zapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\entidades\\zapatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\ut_presentacion\\repositorio\\zapatospureba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\repositorio\\zapatospureba.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_dominio\\nucleo\\enumerables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -141,10 +153,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_dominio\\nucleo\\encodinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ECE68BF5-D834-4ECF-8C73-7A3616F6458D}|lib_dominio\\lib_dominio.csproj|solutionrelative:lib_dominio\\nucleo\\encodinghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A1750074-34A7-4C90-825E-0D14E8460157}|ut_presentacion\\ut_presentacion.csproj|solutionrelative:ut_presentacion\\nucleo\\configuracion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|Elementos de la soluci\u00F3n{D107F4C8-89CC-BEA8-D3D7-CA6B7733353D}|C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -211,10 +219,6 @@
       "RelativeMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\iinventariosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_aplicaciones\\interfaces\\izapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4BAB70E8-E61D-4020-BB3C-7E59BBBDE891}|lib_aplicaciones\\lib_aplicaciones.csproj|solutionrelative:lib_aplicaciones\\interfaces\\izapatosaplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|c:\\users\\emanu\\source\\repos\\tienda_zapatos\\proyecto\\lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
       "RelativeMoniker": "D:0:0:{7493D74B-163F-41C4-8628-A7BB6B975EE9}|lib_repositorios\\lib_repositorios.csproj|solutionrelative:lib_repositorios\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
     }
@@ -226,7 +230,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 12,
           "Children": [
             {
               "$type": "Bookmark",
@@ -262,280 +266,123 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Startup.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Startup.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Startup.cs",
-              "RelativeToolTip": "asp_servicios\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T04:58:04.132Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ZapatosController.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\ZapatosController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ZapatosController.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\ZapatosController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\ZapatosController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T05:35:58.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TokenController.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\TokenController.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TokenController.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\TokenController.cs",
-              "RelativeToolTip": "asp_servicios\\Controllers\\TokenController.cs",
-              "ViewState": "AgIAAD4AAAAAAAAAAAAqwEIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T03:59:27.203Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "asp_servicios\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Properties\\launchSettings.json",
-              "RelativeToolTip": "asp_servicios\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB4AAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-17T05:44:10.294Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\appsettings.json",
-              "RelativeDocumentMoniker": "asp_servicios\\appsettings.json",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\appsettings.json",
-              "RelativeToolTip": "asp_servicios\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-14T04:57:00.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "asp_servicios.http",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\asp_servicios.http",
-              "RelativeDocumentMoniker": "asp_servicios\\asp_servicios.http",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\asp_servicios.http",
-              "RelativeToolTip": "asp_servicios\\asp_servicios.http",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-07-14T04:56:31.28Z",
+              "WhenOpened": "2025-07-17T01:20:42.617Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Configuracion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Nucleo\\Configuracion.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Configuracion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Nucleo\\Configuracion.cs",
-              "RelativeToolTip": "asp_servicios\\Nucleo\\Configuracion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAABOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T05:37:59.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuditoriasAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAwwDkAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T04:00:25.063Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ComprasAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ComprasAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ComprasAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ComprasAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ComprasAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T04:10:40.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CuentaClientesAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\CuentaClientesAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\CuentaClientesAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\CuentaClientesAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\CuentaClientesAplicacion.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAIwEIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T04:09:38.882Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "CuentaEmpleadosAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\CuentaEmpleadosAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\CuentaEmpleadosAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\CuentaEmpleadosAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\CuentaEmpleadosAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T04:09:21.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "DetallesComprasAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\DetallesComprasAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\DetallesComprasAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\DetallesComprasAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\DetallesComprasAplicacion.cs",
-              "ViewState": "AgIAADsAAAAAAAAAAAAIwEUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T04:09:01.156Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "EmpleadosAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T04:08:46.231Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "InventariosAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\InventariosAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\InventariosAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\InventariosAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\InventariosAplicacion.cs",
-              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEsAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T04:08:15.354Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ZapatosAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T04:07:17.719Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "EntidadesNucleo.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
               "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
               "RelativeToolTip": "ut_presentacion\\Nucleo\\EntidadesNucleo.cs",
-              "ViewState": "AgIAAE4AAAAAAAAAAAAEwFgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T08:29:36.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "CuentaClientes.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\CuentaClientes.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\CuentaClientes.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\CuentaClientes.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\CuentaClientes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T08:59:31.805Z",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "asp_servicios\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Properties\\launchSettings.json",
+              "RelativeToolTip": "asp_servicios\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T05:44:10.294Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Program.cs",
-              "RelativeDocumentMoniker": "asp_servicios\\Program.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Program.cs",
-              "RelativeToolTip": "asp_servicios\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAD4v1IAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T04:57:17.43Z",
+              "WhenOpened": "2025-07-17T03:59:27.203Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ClientesAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "ZapatosController.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\ZapatosController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\ZapatosController.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\ZapatosController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\ZapatosController.cs",
+              "ViewState": "AgIAAJkAAAAAAAAAAAAcwKQAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T05:08:47.509Z",
+              "WhenOpened": "2025-07-14T05:35:58.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IClientesAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IClientesAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IClientesAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IClientesAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IClientesAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IZapatosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAkAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T05:08:44.238Z",
+              "WhenOpened": "2025-07-14T05:00:11.897Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "CuentaClientesPrueba.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\CuentaClientesPrueba.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\CuentaClientesPrueba.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\CuentaClientesPrueba.cs",
-              "RelativeToolTip": "ut_presentacion\\Repositorio\\CuentaClientesPrueba.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAawCsAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T00:19:00.069Z",
+              "DocumentIndex": 5,
+              "Title": "Script.sql ",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_repositorios\\Script.sql",
+              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_repositorios\\Script.sql",
+              "RelativeToolTip": "lib_repositorios\\Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-07-14T07:24:56.622Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 2,
+              "Title": "ZapatosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ZapatosAplicacion.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:07:17.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zapatos.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\Zapatos.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Zapatos.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\Zapatos.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\Zapatos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T01:02:00.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Conexion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_repositorios\\Implementaciones\\Conexion.cs",
               "RelativeDocumentMoniker": "lib_repositorios\\Implementaciones\\Conexion.cs",
@@ -548,7 +395,228 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InventariosController.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\InventariosController.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Controllers\\InventariosController.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Controllers\\InventariosController.cs",
+              "RelativeToolTip": "asp_servicios\\Controllers\\InventariosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T06:11:23.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Nucleo\\Configuracion.cs",
+              "RelativeToolTip": "ut_presentacion\\Nucleo\\Configuracion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:28:36.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Startup.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Startup.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Startup.cs",
+              "RelativeToolTip": "asp_servicios\\Startup.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAwwAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:58:04.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Program.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Program.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Program.cs",
+              "RelativeToolTip": "asp_servicios\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T04:57:17.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CuentaClientesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\CuentaClientesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\CuentaClientesAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\CuentaClientesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\CuentaClientesAplicacion.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:09:38.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ComprasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ComprasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ComprasAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ComprasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ComprasAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:10:40.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Configuracion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Nucleo\\Configuracion.cs",
+              "RelativeDocumentMoniker": "asp_servicios\\Nucleo\\Configuracion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\Nucleo\\Configuracion.cs",
+              "RelativeToolTip": "asp_servicios\\Nucleo\\Configuracion.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAowCYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T05:37:59.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 17,
+              "Title": "AuditoriasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\AuditoriasAplicacion.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDkAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:00:25.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "asp_servicios.http",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\asp_servicios.http",
+              "RelativeDocumentMoniker": "asp_servicios\\asp_servicios.http",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\asp_servicios.http",
+              "RelativeToolTip": "asp_servicios\\asp_servicios.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-14T04:56:31.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\appsettings.json",
+              "RelativeDocumentMoniker": "asp_servicios\\appsettings.json",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\appsettings.json",
+              "RelativeToolTip": "asp_servicios\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T04:57:00.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CuentaEmpleadosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\CuentaEmpleadosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\CuentaEmpleadosAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\CuentaEmpleadosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\CuentaEmpleadosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:09:21.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DetallesComprasAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\DetallesComprasAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\DetallesComprasAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\DetallesComprasAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\DetallesComprasAplicacion.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwEUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:09:01.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmpleadosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\EmpleadosAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:08:46.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "InventariosAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\InventariosAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\InventariosAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\InventariosAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\InventariosAplicacion.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwEsAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T04:08:15.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CuentaClientes.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\CuentaClientes.cs",
+              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\CuentaClientes.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\CuentaClientes.cs",
+              "RelativeToolTip": "lib_dominio\\Entidades\\CuentaClientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T08:59:31.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClientesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Implementaciones\\ClientesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T05:08:47.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IClientesAplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IClientesAplicacion.cs",
+              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IClientesAplicacion.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IClientesAplicacion.cs",
+              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IClientesAplicacion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T05:08:44.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CuentaClientesPrueba.cs",
+              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\CuentaClientesPrueba.cs",
+              "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\CuentaClientesPrueba.cs",
+              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\CuentaClientesPrueba.cs",
+              "RelativeToolTip": "ut_presentacion\\Repositorio\\CuentaClientesPrueba.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAawCsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T00:19:00.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "IConexion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_repositorios\\Interfaces\\IConexion.cs",
               "RelativeDocumentMoniker": "lib_repositorios\\Interfaces\\IConexion.cs",
@@ -556,12 +624,11 @@
               "RelativeToolTip": "lib_repositorios\\Interfaces\\IConexion.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T19:05:56.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T19:05:56.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "DetallesComprasPrueba.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\DetallesComprasPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\DetallesComprasPrueba.cs",
@@ -569,12 +636,11 @@
               "RelativeToolTip": "ut_presentacion\\Repositorio\\DetallesComprasPrueba.cs",
               "ViewState": "AgIAADgAAAAAAAAAAAAkwEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T20:21:41.518Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T20:21:41.518Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 30,
               "Title": "DetallesCompras.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\DetallesCompras.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\DetallesCompras.cs",
@@ -582,12 +648,11 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\DetallesCompras.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAgwA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T01:16:51.538Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T01:16:51.538Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 31,
               "Title": "Empleados.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\Empleados.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Empleados.cs",
@@ -595,24 +660,11 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\Empleados.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T01:04:04.997Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T01:04:04.997Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "Script.sql ",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_repositorios\\Script.sql",
-              "RelativeDocumentMoniker": "lib_repositorios\\Script.sql",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_repositorios\\Script.sql",
-              "RelativeToolTip": "lib_repositorios\\Script.sql",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2025-07-14T07:24:56.622Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "EmpleadoPrueba.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\EmpleadoPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\EmpleadoPrueba.cs",
@@ -620,12 +672,11 @@
               "RelativeToolTip": "ut_presentacion\\Repositorio\\EmpleadoPrueba.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T20:14:11.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T20:14:11.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "InventariosPrueba.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\InventariosPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\InventariosPrueba.cs",
@@ -633,25 +684,11 @@
               "RelativeToolTip": "ut_presentacion\\Repositorio\\InventariosPrueba.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAQwCYAAABFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T19:38:09.257Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T19:38:09.257Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Zapatos.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\Zapatos.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Zapatos.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\Zapatos.cs",
-              "RelativeToolTip": "lib_dominio\\Entidades\\Zapatos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T01:02:00.263Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "ZapatosPureba.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\ZapatosPureba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\ZapatosPureba.cs",
@@ -659,25 +696,11 @@
               "RelativeToolTip": "ut_presentacion\\Repositorio\\ZapatosPureba.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAAEwDUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T19:00:04.961Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T19:00:04.961Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "DatosGenerales.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "RelativeToolTip": "lib_dominio\\Nucleo\\DatosGenerales.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T01:20:42.617Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 35,
               "Title": "Enumerables.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Nucleo\\Enumerables.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\Enumerables.cs",
@@ -685,12 +708,11 @@
               "RelativeToolTip": "lib_dominio\\Nucleo\\Enumerables.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T01:21:03.788Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T01:21:03.788Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 36,
               "Title": "LogConversor.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Nucleo\\LogConversor.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\LogConversor.cs",
@@ -698,12 +720,11 @@
               "RelativeToolTip": "lib_dominio\\Nucleo\\LogConversor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T01:21:06.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T01:21:06.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 37,
               "Title": "EncodingHelper.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Nucleo\\EncodingHelper.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Nucleo\\EncodingHelper.cs",
@@ -711,12 +732,11 @@
               "RelativeToolTip": "lib_dominio\\Nucleo\\EncodingHelper.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T01:21:00.898Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T01:21:00.898Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 38,
               "Title": "secrets.json",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\secrets.json",
               "RelativeDocumentMoniker": "secrets.json",
@@ -724,12 +744,11 @@
               "RelativeToolTip": "secrets.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-07-14T07:22:29.546Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T07:22:29.546Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 41,
               "Title": "Inventarios.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\Inventarios.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Inventarios.cs",
@@ -737,12 +756,11 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\Inventarios.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T19:40:01.233Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-14T19:40:01.233Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "Clientes.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\Clientes.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Clientes.cs",
@@ -750,12 +768,11 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\Clientes.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T00:43:15.502Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T00:43:15.502Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 39,
               "Title": "Compras.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\Compras.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\Compras.cs",
@@ -763,25 +780,11 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\Compras.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAASwBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T00:21:00.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T00:21:00.878Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "Configuracion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Nucleo\\Configuracion.cs",
-              "RelativeDocumentMoniker": "ut_presentacion\\Nucleo\\Configuracion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Nucleo\\Configuracion.cs",
-              "RelativeToolTip": "ut_presentacion\\Nucleo\\Configuracion.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwBUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T08:28:36.789Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 42,
               "Title": "ComprasPrueba.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\ComprasPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\ComprasPrueba.cs",
@@ -789,12 +792,11 @@
               "RelativeToolTip": "ut_presentacion\\Repositorio\\ComprasPrueba.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAgwBsAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T00:36:25.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T00:36:25.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 43,
               "Title": "CuentaEmpleadosPrueba.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\CuentaEmpleadosPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\CuentaEmpleadosPrueba.cs",
@@ -802,12 +804,11 @@
               "RelativeToolTip": "ut_presentacion\\Repositorio\\CuentaEmpleadosPrueba.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAgwCAAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T00:05:47.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T00:05:47.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 44,
               "Title": "ClientesPrueba.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\ut_presentacion\\Repositorio\\ClientesPrueba.cs",
               "RelativeDocumentMoniker": "ut_presentacion\\Repositorio\\ClientesPrueba.cs",
@@ -815,12 +816,11 @@
               "RelativeToolTip": "ut_presentacion\\Repositorio\\ClientesPrueba.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T00:41:56.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T00:41:56.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 45,
               "Title": "CuentaEmpleados.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_dominio\\Entidades\\CuentaEmpleados.cs",
               "RelativeDocumentMoniker": "lib_dominio\\Entidades\\CuentaEmpleados.cs",
@@ -828,12 +828,11 @@
               "RelativeToolTip": "lib_dominio\\Entidades\\CuentaEmpleados.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T00:11:23.66Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-17T00:11:23.66Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 46,
               "Title": "asp_servicios.csproj",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\asp_servicios\\asp_servicios.csproj",
               "RelativeDocumentMoniker": "asp_servicios\\asp_servicios.csproj",
@@ -845,7 +844,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 47,
               "Title": "IAuditoriasAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IAuditoriasAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IAuditoriasAplicacion.cs",
@@ -857,7 +856,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 49,
               "Title": "IComprasAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IComprasAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IComprasAplicacion.cs",
@@ -869,7 +868,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 50,
               "Title": "ICuentaClientesAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\ICuentaClientesAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\ICuentaClientesAplicacion.cs",
@@ -881,7 +880,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 51,
               "Title": "ICuentaEmpleadosAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\ICuentaEmpleadosAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\ICuentaEmpleadosAplicacion.cs",
@@ -893,7 +892,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 52,
               "Title": "IDetallesComprasAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IDetallesComprasAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IDetallesComprasAplicacion.cs",
@@ -905,7 +904,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 48,
               "Title": "IEmpleadosAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IEmpleadosAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IEmpleadosAplicacion.cs",
@@ -917,7 +916,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 53,
               "Title": "IInventariosAplicacion.cs",
               "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IInventariosAplicacion.cs",
               "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IInventariosAplicacion.cs",
@@ -926,18 +925,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-14T05:01:33.198Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "IZapatosAplicacion.cs",
-              "DocumentMoniker": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
-              "RelativeDocumentMoniker": "lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
-              "ToolTip": "C:\\Users\\emanu\\source\\repos\\Tienda_Zapatos\\Proyecto\\lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
-              "RelativeToolTip": "lib_aplicaciones\\Interfaces\\IZapatosAplicacion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-14T05:00:11.897Z"
             }
           ]
         }
