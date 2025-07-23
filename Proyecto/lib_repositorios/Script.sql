@@ -25,7 +25,7 @@ CREATE TABLE Empleados (
 	Id INT PRIMARY KEY IDENTITY(1,1),
 	Nombre NVARCHAR(100) NOT NULL,
 	Cedula NVARCHAR(100) NOT NULL,
-	Salario NVARCHAR(100) NOT NULL,
+	Salario DECIMAL(10,2) NOT NULL,
 	Telefono NVARCHAR(100) NOT NULL
 );
 
@@ -96,8 +96,8 @@ INSERT INTO Clientes (Nombre, Cedula, Direccion, Telefono) VALUES
 
 -- Empleados
 INSERT INTO Empleados (Nombre, Cedula, Salario, Telefono) VALUES
-('Carlos López', '1122334455', '3000000', '3121112233'),
-('Lucía Ramírez', '5544332211', '2800000', '3142223344');
+('Carlos López', '1122334455', 300.00, '3121112233'),
+('Lucía Ramírez', '5544332211', 280.00, '3142223344');
 
 -- Inventario
 INSERT INTO Inventarios (Cantidad, Codigo, Zapato) VALUES

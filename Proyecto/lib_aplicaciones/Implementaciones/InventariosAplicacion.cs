@@ -40,17 +40,17 @@ namespace lib_aplicaciones.Implementaciones
         {
             if (entidad == null)
                 throw new Exception("lbFaltaInformacion");
-            if (entidad!.Id == 0)
+            if (entidad!.Id != 0)
                 throw new Exception("lbYaSeGuardo");
             this.IConexion!.Auditorias!.Add(
                 new Auditorias() { Accion = "Guardar", Tabla = "Inventarios", Fecha = DateTime.Now }
                 );
 
-            var ultimoZapatoCodigo = this.IConexion!.Inventarios!.OrderByDescending(x => x.Id).FirstOrDefault()!.Codigo!.Split('-');
+            var ultimoInventarioCodigo = this.IConexion!.Inventarios!.OrderByDescending(x => x.Id).FirstOrDefault()!.Codigo!.Split('-');
 
-            var numero = int.Parse(ultimoZapatoCodigo[1]) + 1;
+            var numero = int.Parse(ultimoInventarioCodigo[1]) + 1;
 
-            entidad.Codigo = ultimoZapatoCodigo[0] + "-" + numero.ToString("D4");
+            entidad.Codigo = ultimoInventarioCodigo[0] + "-" + numero.ToString("D4");
 
             this.IConexion!.Inventarios!.Add(entidad);
 

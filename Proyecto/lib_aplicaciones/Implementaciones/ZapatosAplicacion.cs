@@ -19,21 +19,7 @@ namespace lib_aplicaciones.Implementaciones
             this.IConexion!.StringConexion = stringConexion;
         }
 
-        public Zapatos? Borrar (Zapatos? entidad) {
-            if (entidad == null)
-                throw new Exception("lbFaltaInformacion");
-            if (entidad!.Id == 0)
-                throw new Exception("lbNoSeGuardo");
 
-            this.IConexion!.Auditorias!.Add(
-                new Auditorias() { Accion = "Borrar", Tabla = "Zapatos", Fecha = DateTime.Now }
-                );
-            
-            this.IConexion!.Zapatos!.Remove(entidad);
-            this.IConexion!.SaveChanges();
-            return entidad;
-
-        }
 
         public Zapatos? Guardar(Zapatos? entidad) { 
             if(entidad == null)
@@ -93,6 +79,23 @@ namespace lib_aplicaciones.Implementaciones
             entry.State = EntityState.Modified;
             this.IConexion.SaveChanges();
             return entidad;
+        }
+
+        public Zapatos? Borrar(Zapatos? entidad)
+        {
+            if (entidad == null)
+                throw new Exception("lbFaltaInformacion");
+            if (entidad!.Id == 0)
+                throw new Exception("lbNoSeGuardo");
+
+            this.IConexion!.Auditorias!.Add(
+                new Auditorias() { Accion = "Borrar", Tabla = "Zapatos", Fecha = DateTime.Now }
+                );
+
+            this.IConexion!.Zapatos!.Remove(entidad);
+            this.IConexion!.SaveChanges();
+            return entidad;
+
         }
 
     }

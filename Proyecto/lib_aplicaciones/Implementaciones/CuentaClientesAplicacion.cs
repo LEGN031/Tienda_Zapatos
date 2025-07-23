@@ -40,7 +40,7 @@ namespace lib_aplicaciones.Implementaciones
         {
             if (entidad == null)
                 throw new Exception("lbFaltaInformacion");
-            if (entidad!.Id == 0)
+            if (entidad!.Id != 0)
                 throw new Exception("lbYaSeGuardo");
             this.IConexion!.Auditorias!.Add(
                 new Auditorias() { Accion = "Guardar", Tabla = "CuentaClientes", Fecha = DateTime.Now }
